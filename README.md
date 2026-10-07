@@ -1,3 +1,6 @@
+[![Archived](https://img.shields.io/badge/status-archived-inactive)](https://github.com/the-jodingo?tab=repositories)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 # Medical HTML App
 
 A basic single-page HTML app.
